@@ -1,4 +1,5 @@
 # Leetcode-Learn
+# Major course: Leetcode Cookbook in Go
 Record for LeetCode Exam
 
 Course: https://books.halfrost.com/leetcode/
