@@ -24,6 +24,7 @@ func twoSum(num []int, target int) []int {
 			fmt.Println([]int{k, v})
 			fmt.Println([]int{another, k})
 			return []int{another, k}
+
 		}
 		m[v] = k
 	}

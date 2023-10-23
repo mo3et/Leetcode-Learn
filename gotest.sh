@@ -7,7 +7,7 @@ for d in $(go list ./Leetcode-Go/... | grep -v vendor); do
 	echo $d
 	go test -coverprofile=profile.out -covermode=atomic $d
 	if [-f profile.out]; then
-		cat profile.out >> coverage.txt
+		cat profile.out >> coverage.txt 
 		rm profile.out
 	fi
 done
