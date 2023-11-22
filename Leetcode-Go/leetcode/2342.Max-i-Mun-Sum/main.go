@@ -1,6 +1,11 @@
 package main
 
+import "fmt"
+
 func main() {
+	rc := []int{18, 43, 36, 13, 7}
+	a1 := maximunSum(rc)
+	fmt.Println(a1)
 }
 
 func maximunSum(nums []int) int {
@@ -14,6 +19,8 @@ func maximunSum(nums []int) int {
 		if record[s] > 0 {
 			ans = max(ans, record[s]+num)
 		}
+		record[s] = max(record[s], num)
+		fmt.Print(record[s], " ")
 	}
 	return ans
 }

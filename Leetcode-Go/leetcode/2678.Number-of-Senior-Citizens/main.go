@@ -17,7 +17,6 @@ func countSeniors(details []string) int {
 
 // TODO 如何使用 slice 然后把一组数据append进去 例如有三个以上的 slice内容
 func main() {
-	details := make([]string, 10)
-	details = append(details, {"7868190130M7522", "5303914400F9211", "9273338290F4010"})
+	details := []string{"7868190130M7522", "5303914400F9211", "9273338290F4010"}
 	countSeniors(details)
 }
