@@ -77,5 +77,4 @@ func Ints2ListWithCycle(nums []int, pos int) *ListNode {
 	}
 	tail.Next = c
 	return head
-
 }
