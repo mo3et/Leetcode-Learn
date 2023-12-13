@@ -78,3 +78,13 @@ func Ints2ListWithCycle(nums []int, pos int) *ListNode {
 	tail.Next = c
 	return head
 }
+
+// Print LinkedList int Val
+func PrintLinkedList(head *ListNode) {
+	current := head
+	for current != nil {
+		fmt.Printf("%d -> ", current.Val)
+		current = current.Next
+	}
+	fmt.Println("nil")
+}
