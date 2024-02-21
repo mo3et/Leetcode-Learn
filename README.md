@@ -15,14 +15,14 @@ eaxmple:
 
 ---
 
-学习路线可参考 Carl 的推荐路线  
+学习路线可参考 [Carl 的推荐路线](https://programmercarl.com/#如何使用本站)  
 按左边文章顺序做下去就行
 
 ---
 
 ## List
-> [题单合集分享](https://github.com/tonngw/LeetCode021)
 
+> [题单合集分享](https://github.com/tonngw/LeetCode021)
 
 [Interview 75](https://leetcode.cn/studyplan/coding-interviews/)
 
