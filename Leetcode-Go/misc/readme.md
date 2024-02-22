@@ -26,3 +26,7 @@
 [面试经典 150 题](https://leetcode.cn/studyplan/top-interview-150/)
 
 [官方刷题路径(很多)](https://leetcode.cn/circle/discuss/E3yavq/)
+
+---
+
+[Carl 设计模式讲解+训练](https://github.com/youngyangyang04/kama-DesignPattern)
