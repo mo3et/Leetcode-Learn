@@ -5,11 +5,13 @@
 学习路线可参考 [Carl 的推荐路线](https://programmercarl.com/#如何使用本站)  
 按左边文章顺序做下去就行
 
----
+--- 
 
 ## List
 
 > [题单合集分享](https://github.com/tonngw/LeetCode021)
+>
+> [CS-Note LeetCode 题目](http://www.cyc2018.xyz/算法/Leetcode%20题解/Leetcode%20题解%20-%20目录.html)
 
 [Interview 75](https://leetcode.cn/studyplan/coding-interviews/)
 
@@ -30,3 +32,5 @@
 ---
 
 [Carl 设计模式讲解+训练](https://github.com/youngyangyang04/kama-DesignPattern)
+
+

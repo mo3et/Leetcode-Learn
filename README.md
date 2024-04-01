@@ -21,8 +21,11 @@ eaxmple:
 ---
 
 ## List
+> [misc/readme](Leetcode-Go/misc/readme.md) 
 
 > [题单合集分享](https://github.com/tonngw/LeetCode021)
+>
+> [CS-Note LeetCode 题目](http://www.cyc2018.xyz/算法/Leetcode%20题解/Leetcode%20题解%20-%20目录.html)
 
 [Interview 75](https://leetcode.cn/studyplan/coding-interviews/)
 
@@ -47,3 +50,4 @@ eaxmple:
 - [labuladong 刷题三件套 PDF](https://mp.weixin.qq.com/s/X-fE9sR4BLi6T9pn7xP4pg)
 - [算法小抄 (Major)](./other_resource/labuladong%E7%9A%84%E7%AE%97%E6%B3%95%E7%A7%98%E7%B1%8DV4.1.pdf)
 - [刷题笔记 (Minor)](./other_resource/labuladong%E7%9A%84%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0V4.1.pdf)
+
