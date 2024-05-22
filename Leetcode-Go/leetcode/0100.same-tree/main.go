@@ -9,10 +9,10 @@ import (
 type TreeNode = structures.TreeNode
 
 func main() {
-	p1:=[]int{1,2,3}
-	p2:=[]int{1,2,3}
-	p:=structures.Ints2TreeNode(p1)
-	q:=structures.Ints2TreeNode(p2)
+	p1 := []int{1, 2, 3}
+	p2 := []int{1, 2, 3}
+	p := structures.Ints2TreeNode(p1)
+	q := structures.Ints2TreeNode(p2)
 	// p := &TreeNode{}
 	// q := &TreeNode{}
 	res := isSameTree(p, q)
